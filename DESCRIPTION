@@ -1,10 +1,11 @@
-Package: doakes
+Package: doakesR
 Type: Package
-Title: Random Functions
+Title: Various R Functions for Time Series Analysis
 Version: 1.0.0
 Author: Dustin Oakes
 Maintainer: Dustin Oakes <dustinoakes@g.ucla.edu>
-Description: Various functions used in schoolwork, etc.
+Description: Functions used in time series:    
+    tsConvertPlot: Takes data and converts it to time series format and creates a plot all in one step
 License: MIT
 Encoding: UTF-8
 LazyData: true
